@@ -1,0 +1,1 @@
+mkdir web && cd web && git init && git pull https://github.com/Yoatn/stepic_web_project.git && bash init.sh
